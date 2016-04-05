@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_me">&#xe921;</string>
+    <string name="icon_share">&#xe931;</string>
+    <string name="icon_shock">&#xe932;</string>
+    <string name="icon_unbind">&#xe928;</string>
+    <string name="icon_restart">&#xe92b;</string>
+    <string name="icon_upgrade">&#xe942;</string>
+    <string name="icon_no_disturb">&#xe917;</string>
+    <string name="icon_card">&#xe910;</string>
+    <string name="icon_tips">&#xe940;</string>
+    <string name="icon_energy_fill">&#xe91a;</string>
+    <string name="icon_list">&#xe90b;</string>
+
+
+    <string name="icon_close">&#xe912;</string>
+    <string name="icon_circle_close">&#xe913;</string>
+    <string name="icon_search">&#xe92d;</string>
+    <string name="icon_female">&#xe91e;</string>
+    <string name="icon_male">&#xe920;</string>
+    <string name="icon_back">&#xe90f;</string>
+    <string name="icon_forward">&#xe925;</string>
+    <string name="icon_user">&#xe943;</string>
+    <string name="icon_down">&#xe918;</string>
+    <string name="icon_up">&#xe941;</string>
+    <string name="icon_page_left">&#xe927;</string>
+    <string name="icon_page_right">&#xe924;</string>
+    <string name="icon_apparatus">&#xe946;</string>
+    <string name="icon_take_off">&#xe919;</string>
+    <string name="icon_walk">&#xe944;</string>
+    <string name="icon_no_bong_exercise">&#xe91c;</string>
+    <string name="icon_swim">&#xe93c;</string>
+    <string name="icon_warm_up">&#xe945;</string>
+    <string name="icon_sleep">&#xe933;</string>
+    <string name="icon_exercise">&#xe90c;</string>
+    <string name="icon_sport_walk">&#xe937;</string>
+    <string name="icon_run">&#xe92c;</string>
+    <string name="icon_quiet">&#xe923;</string>
+    <string name="icon_bike">&#xe914;</string>
+
+    <string name="icon_0">&#xe900;</string>
+    <string name="icon_1">&#xe901;</string>
+    <string name="icon_2">&#xe902;</string>
+    <string name="icon_3">&#xe903;</string>
+    <string name="icon_4">&#xe904;</string>
+    <string name="icon_5">&#xe905;</string>
+    <string name="icon_6">&#xe906;</string>
+    <string name="icon_7">&#xe907;</string>
+    <string name="icon_8">&#xe908;</string>
+    <string name="icon_9">&#xe909;</string>
+    <string name="icon_dot">&#xe90a;</string>
+
+    <string name="icon_interact_f">&#xe934;</string>
+    <string name="icon_interact_n">&#xe935;</string>
+    <string name="icon_report_f">&#xe929;</string>
+    <string name="icon_report_n">&#xe92a;</string>
+    <string name="icon_timeline_f">&#xe93e;</string>
+    <string name="icon_timeline_n">&#xe93f;</string>
+    <string name="icon_setting_f">&#xe92e;</string>
+    <string name="icon_setting_n">&#xe92f;</string>
+
+    <string name="icon_more">&#xe922;</string>
+    <string name="icon_heart">&#xe91f;</string>
+    <string name="icon_max_speed">&#xe91d;</string>
+    <string name="icon_average_speed">&#xe936;</string>
+    <string name="icon_average_pace">&#xe926;</string>
+    <string name="icon_light_sleep">&#xe930;</string>
+    <string name="icon_wake_times">&#xe90d;</string>
+    <string name="icon_step">&#xe93b;</string>
+    <string name="icon_deep_sleep">&#xe915;</string>
+    <string name="icon_wake_len">&#xe90e;</string>
+    <string name="icon_energy">&#xe91b;</string>
+    <string name="icon_time">&#xe93d;</string>
+    <string name="icon_distance">&#xe916;</string>
+    <string name="icon_charge">&#xe911;</string>
+
+    <string name="icon_star_fill">&#xe938;</string>
+    <string name="icon_star_empty">&#xe939;</string>
+    <string name="icon_star_half">&#xe93a;</string>
+    <string name="icon_wear">&#xe947;</string>
+    <string name="icon_finish">&#xe948;</string>
+    <string name="icon_unfold">&#xe949;</string>
+    <string name="icon_fold">&#xe94a;</string>
+    <string name="icon_detail">&#xe94b;</string>
+    <string name="icon_bong_logo">&#xe94c;</string>
+
+
+    <string name="icon_guide">&#xe94e;</string>
+    <string name="icon_red_tip">&#xe94d;</string>
+
+
+    <string name="icon_arrow_up">&#xe94f;</string>
+    <string name="icon_arrow_down">&#xe950;</string>
+    <string name="icon_dot_1">&#xe951;</string>
+    <string name="icon_dot_2">&#xe952;</string>
+    <string name="icon_dot_3">&#xe953;</string>
+
+
+    <string name="icon_button_finish">&#xe954;</string>
+    <string name="icon_remind">&#xe955;</string>
+    <string name="icon_keep_fit">&#xe956;</string>
+    <string name="icon_phone_call">&#xe957;</string>
+    <string name="icon_alarm">&#xe958;</string>
+    <string name="icon_hole_heart">&#xe95a;</string>
+    <string name="icon_cracked_heart">&#xe959;</string>
+
+
+</resources>
