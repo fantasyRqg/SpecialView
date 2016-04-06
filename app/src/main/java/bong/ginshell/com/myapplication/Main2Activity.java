@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import bong.ginshell.com.myapplication.view.InfoPopupWindow;
+import bong.ginshell.com.myapplication.view.StateIndicator;
 
 public class Main2Activity extends AppCompatActivity {
     public final static String TAG = Main2Activity.class.getSimpleName();
@@ -33,5 +34,10 @@ public class Main2Activity extends AppCompatActivity {
         mHelpWindow = new InfoPopupWindow(this, "butten 2 ,\nlafjlaksdjfaasdfasdfalksdfjlaksdfjalsdfjkasdalf");
         mHelpWindow.showAbove(mParent, view, this);
 
+    }
+
+    public void onSateClick(View view) {
+        StateIndicator si = (StateIndicator) view;
+        si.setState(!si.isOpen());
     }
 }
