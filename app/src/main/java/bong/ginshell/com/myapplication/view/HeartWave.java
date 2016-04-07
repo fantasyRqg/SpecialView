@@ -1,4 +1,4 @@
-package bong.ginshell.com.myapplication;
+package bong.ginshell.com.myapplication.view;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -12,6 +12,8 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import java.util.concurrent.TimeUnit;
+
+import bong.ginshell.com.myapplication.R;
 
 /**
  * @author rqg

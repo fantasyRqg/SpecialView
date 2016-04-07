@@ -1,4 +1,4 @@
-package bong.ginshell.com.myapplication;
+package bong.ginshell.com.myapplication.view;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -12,6 +12,10 @@ import android.widget.TextView;
 
 import com.faradaj.blurbehind.BlurBehind;
 import com.faradaj.blurbehind.OnBlurCompleteListener;
+
+import bong.ginshell.com.myapplication.NpsActivity;
+import bong.ginshell.com.myapplication.R;
+import bong.ginshell.com.myapplication.drawable.SlantShape;
 
 /**
  * @author rqg

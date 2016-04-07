@@ -1,4 +1,4 @@
-package bong.ginshell.com.myapplication;
+package bong.ginshell.com.myapplication.drawable;
 
 import android.graphics.Canvas;
 import android.graphics.Outline;

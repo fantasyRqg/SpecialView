@@ -1,4 +1,4 @@
-package bong.ginshell.com.myapplication;
+package bong.ginshell.com.myapplication.view;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;

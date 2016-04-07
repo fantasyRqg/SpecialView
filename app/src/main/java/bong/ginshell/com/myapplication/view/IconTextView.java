@@ -1,10 +1,12 @@
-package bong.ginshell.com.myapplication;
+package bong.ginshell.com.myapplication.view;
 
 import android.content.Context;
 import android.graphics.Typeface;
 import android.text.Html;
 import android.util.AttributeSet;
 import android.widget.TextView;
+
+import bong.ginshell.com.myapplication.R;
 
 /**
  * @author rqg
