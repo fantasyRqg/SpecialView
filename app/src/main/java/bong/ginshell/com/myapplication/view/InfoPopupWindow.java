@@ -12,6 +12,7 @@ import android.graphics.RectF;
 import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.Shape;
+import android.support.annotation.LayoutRes;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.View;
@@ -19,35 +20,28 @@ import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.view.WindowManager;
 import android.widget.PopupWindow;
-import android.widget.TextView;
-
-import bong.ginshell.com.myapplication.R;
 
 /**
  * *Created by rqg on 4/5/16.
  */
 public class InfoPopupWindow extends PopupWindow {
     private static final String TAG = "InfoPopupWindow";
-    private TextView mHelpTextView;
     private int mLocationX, mLocationY;
     private View contentView;
 
-    public InfoPopupWindow(Context context, String info) {
+    public InfoPopupWindow(Context context, @LayoutRes int layout) {
         super(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
         setOutsideTouchable(false);
         setFocusable(true);
 
         setBackgroundDrawable(new ColorDrawable(Color.parseColor("#00000000")));
-        contentView = View.inflate(context, R.layout.popupwindow_help, null);
+        contentView = View.inflate(context, layout, null);
 
         contentView.setBackground(new ColorDrawable(Color.RED));
 
         contentView.refreshDrawableState();
 
-        mHelpTextView = (TextView) contentView.findViewById(R.id.help_text);
-
-        mHelpTextView.setText(info);
-        mHelpTextView.setOnClickListener(new View.OnClickListener() {
+        contentView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 dismiss();
